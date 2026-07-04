@@ -1,4 +1,13 @@
-# Google-Dork-Cheat-sheet
+# Google Dork Cheat Sheet
+
+A simple cheat sheet of Google search operators for quick reference.
+
+---
+# Table of Contents
+- Search Operators
+- Search Filters
+- Useful Tips
+  
 
 # Search Operators
 
@@ -59,5 +68,12 @@
 | `map:` | Opens Google Maps search. | `map:New York` |
 
 ---
+# Useful Tips
 
+- Combine multiple operators to narrow down search results.
+- Use quotation marks for exact phrase matching.
+- `site:` works well with domains such as `.edu`, `.gov`, and `.org`.
+- `filetype:` is useful when searching for documents like PDFs, DOCX files, or presentations.
+---
+If you found this repository useful, consider giving it a ⭐.
 
