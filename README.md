@@ -1,5 +1,4 @@
 # Google-Dork-Cheat-sheet
-## Search Filters
 
 # Search Operators
 
